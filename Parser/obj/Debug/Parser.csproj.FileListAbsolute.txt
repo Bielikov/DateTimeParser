@@ -1,0 +1,7 @@
+E:\DateTimeParser\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+E:\DateTimeParser\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
+E:\DateTimeParser\Parser\bin\Debug\Parser.exe.config
+E:\DateTimeParser\Parser\bin\Debug\Parser.exe
+E:\DateTimeParser\Parser\bin\Debug\Parser.pdb
+E:\DateTimeParser\Parser\obj\Debug\Parser.exe
+E:\DateTimeParser\Parser\obj\Debug\Parser.pdb

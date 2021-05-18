@@ -10,6 +10,11 @@ namespace Parser
     {
         static void Main(string[] args)
         {
+            Engine engine = new Engine(new LocaleResource());
+
+            Console.WriteLine(engine.Parser(Format.Date, "en_US", "YYYY/dd/MM"));
+
+           
         }
     }
 }
