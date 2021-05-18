@@ -18,7 +18,7 @@ namespace Parser
         public string Parser(Format format, string locale, string input)
         {
             string output = string.Empty;
-            List<KeyValuePair<Format, Dictionary<char, char>>> collectionTokens = res.TokensCollection[locale].CollectionTokens;
+            List<KeyValuePair<Format, Dictionary<char, char>>> collectionTokens = res.Storage[locale].CollectionTokens;
             var tokens = collectionTokens.First(item => item.Key == format).Value;
 
             foreach (var symbol in input)

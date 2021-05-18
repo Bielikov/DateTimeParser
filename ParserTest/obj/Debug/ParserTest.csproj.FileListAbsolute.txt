@@ -1,0 +1,17 @@
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DateTimeParser\ParserTest\bin\Debug\ParserTest.dll
+E:\DateTimeParser\ParserTest\bin\Debug\ParserTest.pdb
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\DateTimeParser\ParserTest\bin\Debug\Parser.exe
+E:\DateTimeParser\ParserTest\bin\Debug\Parser.pdb
+E:\DateTimeParser\ParserTest\bin\Debug\Parser.exe.config
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\DateTimeParser\ParserTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\DateTimeParser\ParserTest\obj\Debug\ParserTest.csprojAssemblyReference.cache
+E:\DateTimeParser\ParserTest\obj\Debug\ParserTest.csproj.CoreCompileInputs.cache
+E:\DateTimeParser\ParserTest\obj\Debug\ParserTest.csproj.CopyComplete
+E:\DateTimeParser\ParserTest\obj\Debug\ParserTest.dll
+E:\DateTimeParser\ParserTest\obj\Debug\ParserTest.pdb

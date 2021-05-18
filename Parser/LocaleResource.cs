@@ -21,11 +21,11 @@ namespace Parser
     }
     public class LocaleResource
     {        
-        public Dictionary<string, Tokens> TokensCollection { get; private set; }
+        public Dictionary<string, Tokens> Storage { get; private set; }
 
         public LocaleResource()
         {
-            TokensCollection = new Dictionary<string, Tokens>()
+            Storage = new Dictionary<string, Tokens>()
             {
                 {"en_US", new Tokens(dateTokensEn, timeTokensEn) },
                 {"fr_CA", new Tokens(dateTokensFr, timeTokensFr) },

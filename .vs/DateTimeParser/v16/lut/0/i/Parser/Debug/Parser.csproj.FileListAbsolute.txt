@@ -1,0 +1,6 @@
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\b\Parser.exe.config
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\b\Parser.exe
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\i\Parser\Debug\Parser.csprojAssemblyReference.cache
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\i\Parser\Debug\Parser.csproj.CoreCompileInputs.cache
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\i\Parser\Debug\Parser.csproj.CopyComplete
+E:\DateTimeParser\.vs\DateTimeParser\v16\lut\0\i\Parser\Debug\Parser.exe
